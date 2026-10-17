@@ -25,3 +25,19 @@ I'm solving Data Structures and Algorithms problems using Python to improve my p
 
 ## 🚀 My Journey
 One problem at a time, one step closer to becoming a better programmer!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+<!---LeetCode Topics End-->
