@@ -35,6 +35,7 @@ One problem at a time, one step closer to becoming a better programmer!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -44,4 +45,9 @@ One problem at a time, one step closer to becoming a better programmer!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
