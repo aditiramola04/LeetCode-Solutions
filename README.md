@@ -40,4 +40,8 @@ One problem at a time, one step closer to becoming a better programmer!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
