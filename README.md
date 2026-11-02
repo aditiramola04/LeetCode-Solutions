@@ -31,6 +31,7 @@ One problem at a time, one step closer to becoming a better programmer!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0217-contains-duplicate](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -50,4 +51,9 @@ One problem at a time, one step closer to becoming a better programmer!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/aditiramola04/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
